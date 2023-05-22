@@ -1,3 +1,4 @@
 # mobile_frameworks
-osciladores, sequenciadores, drum machines, iot... mixed reality.
-other cool projects stuff, floss projects
+floss mobile projects 
+osciladores, sequenciadores, drum machines, iot... mr, vr, ar
+sbc interfaces, cool portable stuff etc
