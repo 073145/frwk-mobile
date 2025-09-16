@@ -59,6 +59,7 @@ O conteúdo está organizado em módulos que representam os principais domínios
     * **`05.1-AR-Synthesizer/`** (Ex: Um sintetizador cujos controles são objetos virtuais ancorados no mundo real)
     * **`05.2-IoT-Music-Sequencer/`** (Ex: Um sequenciador que controla luzes e motores via MQTT)
 
+<br>
 
 ---
 
