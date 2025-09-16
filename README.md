@@ -1,4 +1,5 @@
-# 🎹 mobile_frameworks: Interatividade Criativa e Física
+# 🎹 mobile_frameworks: 
+Interatividade Criativa e Física
 
 > Um repositório de projetos **FLOSS** (Free/Libre and Open Source Software) dedicado a explorar a fronteira da interatividade em dispositivos móveis. Aqui, transformamos smartphones e tablets em instrumentos musicais, portais para realidades estendidas e centros de comando para o mundo físico.
 
