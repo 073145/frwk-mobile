@@ -6,14 +6,14 @@ Bem-vindo a um laboratório de experimentação onde o desenvolvimento mobile en
 
 ---
 
-## 🚀 Filosofia e Visão
+## 🧭 Nossa Abordagem
 
-Nossa visão é usar a onipresença e o poder dos dispositivos móveis para criar experiências interativas, artísticas e úteis.
+Para explorar o vasto campo da robótica, adotamos uma abordagem sistemática e prática, focada em:
 
-1.  **Tecnologia como Expressão:** Focamos em ferramentas que permitem a criação artística, como **sintetizadores, sequenciadores e drum machines**.
-2.  **Realidades Estendidas (XR):** Exploramos **Realidade Aumentada (AR), Virtual (VR) e Mista (MR)** para mesclar o mundo digital com o físico.
-3.  **Controle do Mundo Físico:** Construímos pontes entre o software e o hardware, criando interfaces para **Single-Board Computers (SBCs)** e dispositivos de **Internet das Coisas (IoT)**.
-4.  **Portabilidade e Código Aberto:** Todos os projetos são FLOSS e projetados para serem "cool portable stuff" – ferramentas legais e portáteis.
+1.  **Decomposição Modular:** Quebrar sistemas complexos em componentes reutilizáveis e gerenciáveis.
+2.  **Iteração com Simulação:** Utilizar simulações extensivamente para prototipar, testar e otimizar antes da implementação física.
+3.  **Controle Flexível:** Desenvolver soluções para robôs tanto controlados diretamente quanto operando de forma autônoma.
+4.  **Fundamentação Teórica e Prática:** Conectar as explorações robóticas com princípios de pensamento computacional e técnicas de aprendizado eficazes.
 
 ---
 
